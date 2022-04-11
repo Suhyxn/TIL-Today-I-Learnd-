@@ -250,11 +250,3 @@ align-self : 교차 축(cross-axis)에서 Item의 정렬 방법을 설정
 </blockquote>
 
 
-
-
-
-
-
- 
- 
-
